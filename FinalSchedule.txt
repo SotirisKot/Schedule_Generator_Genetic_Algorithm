@@ -1,0 +1,103 @@
+Program A1  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Fysikh Agwgh                 , T016    |    Mathimatika                  , T001    |    Istoria                      , T058    |    Project                      , T018    |    Istoria                      , T058
+9:00-10:00  | Arxaia Ellhnikh glwssa       , T002    |    Neoellhnikh Glwssa           , T005    |    Arxaia Ellhnikh glwssa       , T002    |    Agglika                      , T010    |    Trhskeytika                  , T009
+10:00-11:00 | Mathimatika                  , T001    |    Trhskeytika                  , T009    |    Fysikh                       , T006    |    Neoellhnikh Glwssa           , T005    |    Biologia                     , T007
+11:00-12:00 | Neoellhnikh logotexnia       , T004    |    Mathimatika                  , T001    |    Geografia                    , T008    |    Biologia                     , T007    |    Neoellhnikh logotexnia       , T004
+12:00-13:00 | Kallitexnika                 , T015    |    Texnologia                   , T012    |    Oikiaki oikonomia            , T017    |    Arxaia Ellhnika apo metafrash, T003    |    Mathimatika                  , T001
+13:00-14:00 | Agglika                      , T010    |    Fysikh Agwgh                 , T016    |    Gallika/Germanika            , T011    |    Mousiki                      , T014    |    Arxaia Ellhnikh glwssa       , T002
+14:00-15:00 | Gallika/Germanika            , T011    |    Pliroforiki                  , T013    |    Arxaia Ellhnika apo metafrash, T003    |    Oikiaki oikonomia            , T017    |    Geografia                    , T008
+
+Program A2  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Arxaia Ellhnikh glwssa       , T002    |    Oikiaki oikonomia            , T017    |    Gallika/Germanika            , T011    |    Neoellhnikh logotexnia       , T004    |    Fysikh Agwgh                 , T016
+9:00-10:00  | Neoellhnikh logotexnia       , T004    |    Biologia                     , T007    |    Trhskeytika                  , T009    |    Istoria                      , T058    |    Geografia                    , T008
+10:00-11:00 | Istoria                      , T058    |    Neoellhnikh Glwssa           , T005    |    Arxaia Ellhnikh glwssa       , T002    |    Agglika                      , T010    |    Pliroforiki                  , T013
+11:00-12:00 | Geografia                    , T008    |    Trhskeytika                  , T009    |    Mathimatika                  , T001    |    Fysikh                       , T006    |    Gallika/Germanika            , T011
+12:00-13:00 | Texnologia                   , T012    |    Mathimatika                  , T001    |    Neoellhnikh Glwssa           , T005    |    Agglika                      , T010    |    Oikiaki oikonomia            , T017
+13:00-14:00 | Arxaia Ellhnikh glwssa       , T002    |    Mousiki                      , T014    |    Kallitexnika                 , T015    |    Mathimatika                  , T001    |    Mathimatika                  , T001
+14:00-15:00 | Project                      , T018    |    Biologia                     , T007    |    Fysikh Agwgh                 , T016    |    Arxaia Ellhnika apo metafrash, T003    |    Arxaia Ellhnika apo metafrash, T003
+
+Program A3  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Geografia                    , T008    |    Trhskeytika                  , T009    |    Fysikh                       , T006    |    Biologia                     , T007    |    Agglika                      , T010
+9:00-10:00  | Fysikh Agwgh                 , T016    |    Mousiki                      , T014    |    Oikiaki oikonomia            , T017    |    Project                      , T018    |    Oikiaki oikonomia            , T017
+10:00-11:00 | Neoellhnikh Glwssa           , T005    |    Gallika/Germanika            , T011    |    Geografia                    , T008    |    Arxaia Ellhnikh glwssa       , T002    |    Arxaia Ellhnika apo metafrash, T003
+11:00-12:00 | Pliroforiki                  , T013    |    Texnologia                   , T012    |    Biologia                     , T007    |    Agglika                      , T010    |    Kallitexnika                 , T015
+12:00-13:00 | Trhskeytika                  , T009    |    Neoellhnikh Glwssa           , T005    |    Mathimatika                  , T001    |    Istoria                      , T058    |    Gallika/Germanika            , T011
+13:00-14:00 | Mathimatika                  , T001    |    Mathimatika                  , T001    |    Arxaia Ellhnikh glwssa       , T002    |    Arxaia Ellhnika apo metafrash, T003    |    Istoria                      , T058
+14:00-15:00 | Arxaia Ellhnikh glwssa       , T002    |    Fysikh Agwgh                 , T016    |    Mathimatika                  , T001    |    Neoellhnikh logotexnia       , T004    |    Neoellhnikh logotexnia       , T004
+
+Program B1  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Xhmeia                       , T038    |    Agglika                      , T029    |    Mathimatika                  , T019    |    Project                      , T037    |    Istoria                      , T027
+9:00-10:00  | Texnologia                   , T031    |    Gallika/Germanika            , T030    |    Gallika/Germanika            , T030    |    Mathimatika                  , T019    |    Neoellhnikh logotexnia       , T022
+10:00-11:00 | Mathimatika                  , T019    |    Pliroforiki                  , T014    |    Fysikh                       , T024    |    Fysikh                       , T024    |    Arxaia Ellhnikh glwssa       , T020
+11:00-12:00 | Fysikh Agwgh                 , T035    |    Fysikh Agwgh                 , T035    |    Arxaia Ellhnika apo metafrash, T021    |    Mathimatika                  , T019    |    Neoellhnikh Glwssa           , T023
+12:00-13:00 | Mousiki                      , T033    |    Biologia                     , T025    |    Geografia                    , T026    |    Neoellhnikh logotexnia       , T022    |    Arxaia Ellhnika apo metafrash, T021
+13:00-14:00 | Neoellhnikh Glwssa           , T023    |    Oikiaki oikonomia            , T036    |    Agglika                      , T029    |    Istoria                      , T027    |    Arxaia Ellhnikh glwssa       , T020
+14:00-15:00 | Geografia                    , T026    |    Trhskeytika                  , T028    |    Trhskeytika                  , T028    |    Kallitexnika                 , T034    |    Arxaia Ellhnikh glwssa       , T020
+
+Program B2  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Geografia                    , T026    |    Neoellhnikh Glwssa           , T023    |    Trhskeytika                  , T028    |    Fysikh Agwgh                 , T035    |    Xhmeia                       , T038
+9:00-10:00  | Agglika                      , T029    |    Kallitexnika                 , T034    |    Arxaia Ellhnikh glwssa       , T020    |    Neoellhnikh logotexnia       , T022    |    Biologia                     , T025
+10:00-11:00 | Istoria                      , T027    |    Neoellhnikh logotexnia       , T022    |    Trhskeytika                  , T028    |    Arxaia Ellhnikh glwssa       , T020    |    Gallika/Germanika            , T030
+11:00-12:00 | Texnologia                   , T031    |    Mathimatika                  , T019    |    Geografia                    , T026    |    Pliroforiki                  , T014    |    Arxaia Ellhnikh glwssa       , T020
+12:00-13:00 | Gallika/Germanika            , T030    |    Fysikh Agwgh                 , T035    |    Mousiki                      , T033    |    Arxaia Ellhnika apo metafrash, T021    |    Fysikh                       , T024
+13:00-14:00 | Project                      , T037    |    Arxaia Ellhnika apo metafrash, T021    |    Fysikh                       , T024    |    Oikiaki oikonomia            , T036    |    Mathimatika                  , T019
+14:00-15:00 | Neoellhnikh Glwssa           , T023    |    Istoria                      , T027    |    Agglika                      , T029    |    Mathimatika                  , T019    |    Mathimatika                  , T019
+
+Program B3  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Fysikh Agwgh                 , T035    |    Geografia                    , T026    |    Project                      , T037    |    Trhskeytika                  , T028    |    Arxaia Ellhnikh glwssa       , T020
+9:00-10:00  | Arxaia Ellhnikh glwssa       , T020    |    Mathimatika                  , T019    |    Istoria                      , T027    |    Mousiki                      , T033    |    Istoria                      , T027
+10:00-11:00 | Agglika                      , T029    |    Trhskeytika                  , T028    |    Fysikh Agwgh                 , T035    |    Mathimatika                  , T019    |    Biologia                     , T025
+11:00-12:00 | Xhmeia                       , T038    |    Pliroforiki                  , T014    |    Fysikh                       , T024    |    Fysikh                       , T024    |    Kallitexnika                 , T034
+12:00-13:00 | Mathimatika                  , T019    |    Arxaia Ellhnikh glwssa       , T020    |    Gallika/Germanika            , T030    |    Gallika/Germanika            , T030    |    Agglika                      , T029
+13:00-14:00 | Mathimatika                  , T019    |    Geografia                    , T026    |    Neoellhnikh logotexnia       , T022    |    Neoellhnikh logotexnia       , T022    |    Oikiaki oikonomia            , T036
+14:00-15:00 | Texnologia                   , T031    |    Neoellhnikh Glwssa           , T023    |    Neoellhnikh Glwssa           , T023    |    Arxaia Ellhnika apo metafrash, T021    |    Arxaia Ellhnika apo metafrash, T021
+
+Program C1  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Gallika/Germanika            , T050    |    Mathimatika                  , T039    |    Agglika                      , T049    |    Fysikh                       , T044    |    Agglika                      , T049
+9:00-10:00  | Mathimatika                  , T039    |    Istoria                      , T047    |    Mousiki                      , T014    |    Arxaia Ellhnikh glwssa       , T040    |    Kallitexnika                 , T054
+10:00-11:00 | Arxaia Ellhnikh glwssa       , T040    |    Texnologia                   , T051    |    Fysikh Agwgh                 , T055    |    Project                      , T056    |    Neoellhnikh Glwssa           , T043
+11:00-12:00 | Xhmeia                       , T057    |    Pliroforiki                  , T052    |    Koinwnikh & Politiki Agwgi   , T046    |    Gallika/Germanika            , T050    |    Neoellhnikh logotexnia       , T042
+12:00-13:00 | Arxaia Ellhnika apo metafrash, T041    |    Neoellhnikh Glwssa           , T043    |    Istoria                      , T047    |    Biologia                     , T045    |    Fysikh                       , T044
+13:00-14:00 | Neoellhnikh logotexnia       , T042    |    Mathimatika                  , T039    |    Project                      , T056    |    Koinwnikh & Politiki Agwgi   , T046    |    Fysikh Agwgh                 , T055
+14:00-15:00 | Trhskeytika                  , T048    |    Arxaia Ellhnika apo metafrash, T041    |    Mathimatika                  , T039    |    Trhskeytika                  , T048    |    Arxaia Ellhnikh glwssa       , T040
+
+Program C2  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Neoellhnikh logotexnia       , T042    |    Agglika                      , T049    |    Texnologia                   , T051    |    Fysikh Agwgh                 , T055    |    Istoria                      , T047
+9:00-10:00  | Pliroforiki                  , T052    |    Fysikh Agwgh                 , T055    |    Mathimatika                  , T039    |    Project                      , T056    |    Mousiki                      , T014
+10:00-11:00 | Koinwnikh & Politiki Agwgi   , T046    |    Gallika/Germanika            , T050    |    Biologia                     , T045    |    Arxaia Ellhnikh glwssa       , T040    |    Kallitexnika                 , T054
+11:00-12:00 | Arxaia Ellhnika apo metafrash, T041    |    Fysikh                       , T044    |    Agglika                      , T049    |    Project                      , T056    |    Mathimatika                  , T039
+12:00-13:00 | Arxaia Ellhnikh glwssa       , T040    |    Koinwnikh & Politiki Agwgi   , T046    |    Xhmeia                       , T057    |    Trhskeytika                  , T048    |    Gallika/Germanika            , T050
+13:00-14:00 | Arxaia Ellhnika apo metafrash, T041    |    Neoellhnikh logotexnia       , T042    |    Arxaia Ellhnikh glwssa       , T040    |    Mathimatika                  , T039    |    Fysikh                       , T044
+14:00-15:00 | Istoria                      , T047    |    Mathimatika                  , T039    |    Neoellhnikh Glwssa           , T043    |    Neoellhnikh Glwssa           , T043    |    Trhskeytika                  , T048
+
+Program C3  |               MONDAY              		          TUESDAY                           	 WEDNESDAY                           	    THURSDAY                             	FRIDAY      
+8:00-9:00   | Texnologia                   , T051    |    Project                      , T056    |    Trhskeytika                  , T048    |    Trhskeytika                  , T048    |    Koinwnikh & Politiki Agwgi   , T046
+9:00-10:00  | Fysikh Agwgh                 , T055    |    Kallitexnika                 , T054    |    Fysikh Agwgh                 , T055    |    Pliroforiki                  , T052    |    Agglika                      , T049
+10:00-11:00 | Project                      , T056    |    Agglika                      , T049    |    Neoellhnikh logotexnia       , T042    |    Istoria                      , T047    |    Xhmeia                       , T057
+11:00-12:00 | Mathimatika                  , T039    |    Biologia                     , T045    |    Mathimatika                  , T039    |    Mathimatika                  , T039    |    Arxaia Ellhnika apo metafrash, T041
+12:00-13:00 | Gallika/Germanika            , T050    |    Fysikh                       , T044    |    Arxaia Ellhnika apo metafrash, T041    |    Koinwnikh & Politiki Agwgi   , T046    |    Mathimatika                  , T039
+13:00-14:00 | Arxaia Ellhnikh glwssa       , T040    |    Neoellhnikh Glwssa           , T043    |    Istoria                      , T047    |    Neoellhnikh Glwssa           , T043    |    Gallika/Germanika            , T050
+14:00-15:00 | Arxaia Ellhnikh glwssa       , T040    |    Arxaia Ellhnikh glwssa       , T040    |    Mousiki                      , T014    |    Neoellhnikh logotexnia       , T042    |    Fysikh                       , T044
+
+
+Class :                  A                                       B                                      C             
+        T001 --> ALAMPOURTZIDOU XRISTINA    |    T019 --> STIKOYDI GEWRGIA           |    T039 --> FILIPAS GEORGIOS            | 
+        T002 --> ATHANASIOU GEWRGIA         |    T020 --> ALAMPOURTZIDOU XRISA       |    T040 --> THANASIA KATERINA           | 
+        T003 --> ARGYRAKIS GEWRGIOS         |    T021 --> ARGYRAKIS KOSTAS           |    T041 --> KOURNOUTAS XRISTOS          | 
+        T004 --> VARVARIGOS NIKOLAOS        |    T022 --> VARVARIGOS BASILHS         |    T042 --> KAPELLA MARIA               | 
+        T005 --> GRIVAS IWANNIS             |    T023 --> GRIVAKOU KATERINA          |    T043 --> KONTOPIDI STELLA            | 
+        T006 --> GRIVAKOU MARIA             |    T024 --> MPAKIRIS SOTIRIS           |    T044 --> MYLWNA MARIA                | 
+        T007 --> POLYDWROS KWSTANTINOS      |    T025 --> DWRHS KWSTANTINOS          |    T045 --> MARGETIS LEFTERIS           | 
+        T008 --> PRATA ELENH                |    T026 --> KATZABELOY MARIA           |    T046 --> RIGOPOULOS XRISTOS          | 
+        T009 --> DIALINOS NIKOLAOS          |    T027 --> DIALAKIS NIKOLAOS          |    T047 --> MIRARAKI VASILIKI           | 
+        T010 --> LALAS ANDREAS              |    T028 --> KOTITSAS ANDREAS           |    T048 --> PANOURGIA FOFI              | 
+        T011 --> THEODOROPOULOU AIKATERINH  |    T029 --> PSILAKI NASIA              |    T049 --> DERVENITSOU KYRGIAKOULA     | 
+        T012 --> KWTSELH MARIA              |    T030 --> KATSELH MARIA              |    T050 --> WOLFGAG RODE                | 
+        T013 --> DALIS LAMBROS              |    T031 --> DALAS LAMBROS              |    T051 --> DEOUDE KOULA                | 
+        T014 --> IWANNOU VARVARA            |    T014 --> IWANNOY VARVARA            |    T052 --> KATSAROS KWSTAS             | 
+        T015 --> ATHANASIOU ELENH           |    T033 --> ATHANASIA ELENH            |    T014 --> IWANNOY VARVARA             | 
+        T016 --> LYKARDIOPOULOU ELISAVET    |    T034 --> LYKARDI ELISAVET           |    T054 --> PSILOUTSAKOU ELENH          | 
+        T017 --> GOYSHS KWSTANTINOS         |    T035 --> KOYSHS KWSTANTINOS         |    T055 --> SGOUROS GIANNIS             | 
+        T018 --> PAPAFILIS THEODWROS        |    T036 --> PAPAFILIS KWSTAS           |    T056 --> KORRRE STELLA               | 
+        T058 --> VISKAS MANOLIS             |    T037 --> KATSAROY SOFIA             |    T057 --> ILIADI KOSTANTINA           | 
+                                            |    T038 --> PILAVAKI PANAGIOTA         |                                         | 
